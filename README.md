@@ -1,1 +1,23 @@
 This is a repo for our biometric datasets.
+
+
+
+
+If you would like to use the BlowPrnt dataset, please cite the respective paper as follows:
+@InProceedings{blowprint2025,
+    author="Halim, Howard
+    and Chekole, Eyasu Getahun
+    and Reijsbergen, Dani{\"e}l
+    and Zhou, Jianying",
+    editor="Nicomette, Vincent
+    and Benzekri, Abdelmalek
+    and Boulahia-Cuppens, Nora
+    and Vaidya, Jaideep",
+    title="BlowPrint: Blow-Based Multi-factor Biometrics for Smartphone User Authentication",
+    booktitle="Computer Security -- ESORICS 2025",
+    year="2026",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="169--189",
+    isbn="978-3-032-07901-5"
+}
