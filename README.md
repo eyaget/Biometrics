@@ -2,9 +2,12 @@ This is a repo for our biometric datasets.
 
 
 
+## 📚 Citation
 
-If you would like to use the BlowPrnt dataset, please cite the respective paper as follows:
-@InProceedings{blowprint2025,
+If you would like to use the BlowPrnt dataset in your research, please cite the respective paper as follows:
+
+```bibtex
+@@InProceedings{blowprint2025,
     author="Halim, Howard
     and Chekole, Eyasu Getahun
     and Reijsbergen, Dani{\"e}l
@@ -21,3 +24,5 @@ If you would like to use the BlowPrnt dataset, please cite the respective paper 
     pages="169--189",
     isbn="978-3-032-07901-5"
 }
+
+
