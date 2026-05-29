@@ -4,7 +4,7 @@ This is a repo for our biometric datasets.
 
 ## 📚 Citation
 
-If you would like to use the BlowPrnt dataset in your research, please cite the respective paper as follows:
+If you would like to use our BlowPrint dataset in your research, please cite the respective paper as follows:
 
 ```bibtex
 @@InProceedings{blowprint2025,
